@@ -1,0 +1,143 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function": "set_book_contents",
+              "title": "Akt wiary, nadziei, miłości i żalu",
+              "author": "Anonim",
+              "pages": [
+                "§lAkt wiary§r\n\nWierzę w Ciebie, Boże żywy, w Trójcy jedyny, prawdziwy; Wierzę, coś objawił Boże, Twe słowo mylić się nie może.",
+                "§lAkt nadziei§r\n\nUfam Tobie, boś Ty wierny, wszechmogący i miłosierny; Dasz mi grzechów odpuszczenie, łaskę i wieczne zbawienie.",
+                "§lAkt miłości§r\n\nBoże, choć Cię nie pojmuję, jednak nad wszystko miłuję. Nad wszystko, co jest stworzone, Boś Ty dobro nieskończone.",
+                "§lAkt żalu§r\n\nAch żałuję za me złości, jedynie dla Twej miłości. Bądź miłościw mnie grzesznemu, dla Ciebie odpuszczam bliźniemu."
+              ]
+            }
+          ],
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function": "set_book_contents",
+              "title": "Aniele Boży",
+              "author": "Karol Antoniewicz",
+              "pages": [
+                "§lAniele Boży§r\n\nAniele Boży, stróżu mój, Ty zawsze przy mnie stój. Rano, wieczór, we dnie, w nocy Bądź mi zawsze ku pomocy, Strzeż duszy, ciała mego, zaprowadź mnie do żywota wiecznego. Amen."
+              ]
+            }
+          ],
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function": "set_book_contents",
+              "title": "Anioł Pański",
+              "author": "Anonim",
+              "pages": [
+                "§lAnioł Pański§r\n\nAnioł Pański zwiastował Pannie Maryi, I poczęła z Ducha Świętego. Zdrowaś Maryjo...",
+                "Oto ja służebnica Pańska, Niech mi się stanie według słowa Twego. Zdrowaś Maryjo...",
+                "A Słowo stało się ciałem, I zamieszkało między nami. Zdrowaś Maryjo...",
+                "P. Módl się za nami, święta Boża Rodzicielko.\nW. Abyśmy się stali godnymi obietnic Chrystusowych.",
+                "Módlmy się: Łaskę Twoją, prosimy Cię, Panie, racz wlać w serca nasze, abyśmy, którzy za zwiastowaniem anielskim Wcielenie Chrystusa, Syna Twego poznali, przez mękę Jego i krzyż do chwały zmartwychwstania byli doprowadzeni.",
+                "Przez Chrystusa Pana naszego. Amen.\n\nWieczny odpoczynek racz zmarłym dać Panie, a światłość wiekuista niechaj im świeci. Amen."
+              ]
+            }
+          ],
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function": "set_book_contents",
+              "title": "Modlitwa Pańska",
+              "author": "tradycja biblijna (Ewangelia)",
+              "pages": [
+                "§lModlitwa Pańska§r\n\nOjcze nasz, któryś jest w niebie, święć się imię Twoje, przyjdź królestwo Twoje, bądź wola Twoja, jako w niebie, tak i na ziemi.",
+                "\n\nChleba naszego powszedniego daj nam dzisiaj, i odpuść nam nasze winy, jako i my odpuszczamy naszym winowajcom. I nie wódź nas na pokuszenie, ale nas zbaw ode złego. Amen."
+              ]
+            }
+          ],
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function": "set_book_contents",
+              "title": "Pozdrowienie Anielskie",
+              "author": "Anonim",
+              "pages": [
+                "§lPozdrowienie Anielskie§r\n\nZdrowaś Maryjo, łaski pełna, Pan z Tobą, błogosławionaś Ty między niewiastami, i błogosławiony owoc żywota Twojego, Jezus.",
+                "\n\n\nŚwięta Maryjo, Matko Boża, módl się za nami grzesznymi teraz i w godzinę śmierci naszej. Amen."
+              ]
+            }
+          ],
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function": "set_book_contents",
+              "title": "Wyznanie wiary",
+              "author": "Anonim",
+              "pages": [
+                "§lSkład Apostolski§r\n\nWierzę w Boga, Ojca Wszechmogącego, Stworzyciela nieba i ziemi. I w Jezusa Chrystusa, Syna Jego Jedynego, Pana Naszego, który się począł z Ducha Świętego, narodził się z Maryi Panny.",
+                "Umęczon pod Ponckim Piłatem ukrzyżowan, umarł i pogrzebion. Zstąpił do piekieł. Trzeciego dnia zmartwychwstał; wstąpił na niebiosa, siedzi po prawicy Boga, Ojca wszechmogącego. Stamtąd przyjdzie sądzić żywych i umarłych.",
+                "Wierzę w Ducha Świętego, święty Kościół powszechny, świętych obcowanie, grzechów odpuszczenie, ciała zmartwychwstanie, żywot wieczny. Amen.",
+                "§lCredo§r\n\nWierzę w jednego Boga, Ojca Wszechmogącego, Stworzyciela nieba i ziemi, wszystkich rzeczy widzialnych i niewidzialnych. I w jednego Pana Jezusa Chrystusa, Syna Bożego Jednorodzonego, który z Ojca jest zrodzony przed wszystkimi wiekami.",
+                "Bóg z Boga, Światłość ze Światłości, Bóg prawdziwy z Boga prawdziwego. Zrodzony a nie stworzony, współistotny Ojcu, a przez Niego wszystko się stało.",
+                "On to dla nas ludzi i dla naszego zbawienia zstąpił z nieba. I za sprawą Ducha Świętego przyjął ciało z Maryi Dziewicy i stał się człowiekiem.",
+                "Ukrzyżowany również za nas, pod Poncjuszem Piłatem został umęczony i pogrzebany. I zmartwychwstał dnia trzeciego, jak oznajmia Pismo. I wstąpił do nieba; siedzi po prawicy Ojca.",
+                "I powtórnie przyjdzie w chwale sądzić żywych i umarłych, a Królestwu Jego nie będzie końca.",
+                "Wierzę w Ducha Świętego, Pana i Ożywiciela, który od Ojca i Syna pochodzi. Który z Ojcem i Synem wspólnie odbiera uwielbienie i chwałę, który mówił przez Proroków.",
+                "Wierzę w jeden, Święty, powszechny i apostolski Kościół. Wyznaję jeden chrzest na odpuszczenie grzechów. I oczekuję wskrzeszenia umarłych. I życia wiecznego w przyszłym świecie. Amen."
+              ]
+            }
+          ],
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

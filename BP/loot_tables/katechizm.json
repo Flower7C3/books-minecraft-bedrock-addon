@@ -1,0 +1,194 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function": "set_book_contents",
+              "title": "Błogosławieństwa Ewangeliczne",
+              "author": "Ewangelia (Jezus – Kazanie na górze)",
+              "pages": [
+                "§lBłogosławieństwa Ewangeliczne§r\n\n1. Błogosławieni ubodzy w duchu, albowiem do nich należy królestwo niebieskie\n2. Błogosławieni, którzy płaczą, albowiem oni będą pocieszeni",
+                "3. Błogosławieni cisi, albowiem oni na własność posiądą ziemię\n4. Błogosławieni, którzy łakną i pragną sprawiedliwości, albowiem oni będą nasyceni\n5. Błogosławieni miłosierni, albowiem oni miłosierdzia dostąpią",
+                "6. Błogosławieni czystego serca, albowiem oni Boga oglądać będą\n7. Błogosławieni, którzy wprowadzają pokój, albowiem oni synami Bożymi będą nazwani",
+                "8. Błogosławieni, którzy prześladowanie cierpią dla sprawiedliwości, albowiem do nich należy królestwo niebieskie"
+              ]
+            }
+          ],
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function": "set_book_contents",
+              "title": "Cnoty",
+              "author": "Anonim",
+              "pages": [
+                "§lSiedem cnót głównych§r\n1. Pokora\n2. Hojność\n3. Czystość\n4. Miłość\n5. Umiarkowanie\n6. Cierpliwość\n7. Gorliwość i pracowitość",
+                "§lTrzy cnoty boskie (teologalne)§r\nWiara. Nadzieja. Miłość.\n\n§lCztery cnoty główne (kardynalne)§r\nRoztropność. Sprawiedliwość. Umiarkowanie. Męstwo."
+              ]
+            }
+          ],
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function": "set_book_contents",
+              "title": "Grzechy przeciwko Duchowi Świętemu",
+              "author": "Anonim",
+              "pages": [
+                "§lGrzechy przeciwko Duchowi Świętemu§r\n\nKażdy grzech i bluźnierstwo będą odpuszczone ludziom, ale bluźnierstwo przeciwko Duchowi nie będzie odpuszczone. (Mt 12,31)",
+                "1. Grzeszyć zuchwale w nadziei miłosierdzia Bożego\n2. Wątpić o łasce Bożej\n3. Sprzeciwiać się jakiejś prawdzie chrześcijańskiej",
+                "4. Bliźniemu łaski Bożej zazdrościć\n5. Mieć zatwardziałość wobec natchnień Ducha Świętego\n6. Odkładać pokutę aż do śmierci"
+              ]
+            }
+          ],
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function": "set_book_contents",
+              "title": "Pięć warunków dobrej spowiedzi",
+              "author": "Anonim",
+              "pages": [
+                "§lPięć warunków dobrej spowiedzi§r\n\n1. Rachunek sumienia\n2. Żal za grzechy\n3. Mocne postanowienie poprawy\n4. Szczera spowiedź\n5. Zadośćuczynienie Panu Bogu i bliźniemu"
+              ]
+            }
+          ],
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function": "set_book_contents",
+              "title": "Przykazania Boże",
+              "author": "tradycja biblijna (Dekalog)",
+              "pages": [
+                "§lPrzykazania Boże§r\n\n1. Nie będziesz miał bogów cudzych przede Mną\n2. Nie będziesz wymawiał Imienia Pana Boga twego nadaremno\n3. Pamiętaj, abyś dzień święty święcił",
+                "\n\n4. Czcij ojca twego i matkę twoją\n5. Nie zabijaj\n6. Nie cudzołóż\n7. Nie kradnij\n8. Nie mów fałszywego świadectwa przeciw bliźniemu swemu\n9. Nie pożądaj żony bliźniego swego\n10. Ani żadnej rzeczy która jego jest"
+              ]
+            }
+          ],
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function": "set_book_contents",
+              "title": "Przykazania kościelne",
+              "author": "Anonim",
+              "pages": [
+                "§lPrzykazania kościelne§r\n\n1. W niedziele i święta nakazane uczestniczyć we Mszy Świętej i powstrzymać się od prac niekoniecznych\n2. Przynajmniej raz w roku przystąpić do Sakramentu Pokuty",
+                "\n\n3. Przynajmniej raz w roku, w okresie wielkanocnym, przyjąć Komunię świętą\n4. Zachowywać nakazane posty i wstrzemięźliwość od pokarmów mięsnych, a w czasie Wielkiego Postu powstrzymywać się od udziału w zabawach",
+                "5. Troszczyć się o potrzeby wspólnoty Kościoła"
+              ]
+            }
+          ],
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function": "set_book_contents",
+              "title": "Przykazania miłości",
+              "author": "Ewangelia (Jezus)",
+              "pages": [
+                "§lPrzykazania miłości§r\n\n1. Będziesz miłował Pana Boga twego z całego serca swego, z całej duszy swojej i ze wszystkich myśli swoich\n2. A bliźniego swego jak siebie samego"
+              ]
+            }
+          ],
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function": "set_book_contents",
+              "title": "Siedem grzechów głównych",
+              "author": "Anonim",
+              "pages": [
+                "§lSiedem grzechów głównych§r\n\n1. Pycha\n2. Chciwość\n3. Nieczystość\n4. Zazdrość\n5. Nieumiarkowanie w jedzeniu i piciu\n6. Gniew\n7. Lenistwo"
+              ]
+            }
+          ],
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function": "set_book_contents",
+              "title": "Sześć Prawd Wiary",
+              "author": "Anonim",
+              "pages": [
+                "§lSześć Prawd Wiary§r\n\n1. Jest jeden Bóg\n2. Bóg jest sędzią sprawiedliwym, który za dobre wynagradza, a za złe karze\n3. Są trzy Osoby Boskie: Bóg Ojciec, Syn Boży, Duch Święty.",
+                "\n\n4. Syn Boży stał się człowiekiem i umarł na krzyżu dla naszego zbawienia\n5. Dusza ludzka jest nieśmiertelna\n6. Łaska Boska jest do zbawienia koniecznie potrzebna"
+              ]
+            }
+          ],
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}
